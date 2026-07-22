@@ -21,7 +21,11 @@ Built entirely with HTML, CSS, and Vanilla JavaScript.
 | ⚡ PWA Support | Install as a native app on your phone |
 
 ---
+## 🖼 Preview
 
+<img width="755" height="631" alt="screen" src="https://github.com/user-attachments/assets/45777b5a-12dc-4c9f-8616-09ccab68b48e" />
+
+---
 ## 🛠 Tech Stack
 
 - HTML5
