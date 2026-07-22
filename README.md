@@ -14,7 +14,7 @@
 &lt;/p&gt;
 
 &lt;p align="center"&gt;
-  &lt;a href="https://sasha-dev.github.io/finance-tracker"&gt;&lt;strong&gt;🚀 Live Demo&lt;/strong&gt;&lt;/a&gt;
+  &lt;a href="https://uver1ure.github.io/finance-tracker"&gt;&lt;strong&gt;🚀 Live Demo&lt;/strong&gt;&lt;/a&gt;
 &lt;/p&gt;
 
 ---
